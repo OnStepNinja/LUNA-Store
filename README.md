@@ -11,10 +11,10 @@ LUNA Base(ESP32 の基板の中の LUNA Store)を使う皆さんの交流の場�
 | Category | Use it for |
 |---|---|
 | Announcements / お知らせ | News from the developer (read only) / 開発者からのお知らせ(読むだけ) |
-| Q&A / 質問 | Questions about the boards and firmware in LUNA Store / Store の基板・ファームの質問 |
-| Show and tell / 作例 | What you built or observed / 作ったもの・観測の報告 |
-| Ideas / 要望 | Requests and ideas / 要望・アイデア |
-| General / 雑談 | Anything else, any language / そのほか(日本語・英語どちらでも) |
+| Q&A / ご質問 | Questions about LUNA Store, its boards and firmware / Store・基板・ファームについてのご質問 |
+| Ideas / ご要望 | Requests, ideas and feedback / ご要望・ご意見 |
+
+Japanese or English — either is fine. / 日本語・英語、どちらでも書き込めます。
 
 Use 👍 on posts you like. / 良いと思った投稿には 👍 を付けてください。
 
